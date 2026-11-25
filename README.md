@@ -42,7 +42,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-moon.svg" />
-  <img alt="3D contributions" src="./profile-3d-contrib/profile-green-animate.svg" />
+  <img alt="3D contributions" src="./profile-3d-contrib/profile-green-clean.svg" />
 </picture>
 
 </div>
