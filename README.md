@@ -1,51 +1,51 @@
+<div align="center">
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=81F7F3&height=300&section=header&text=minseok0602&fontSize=90" />&nbsp
-</div>
-<!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/java-FF4154?style=for-the-badge&logo=java&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/python-4d77cf.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/c-150458.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=200&section=header&text=Minseok&fontSize=64&fontColor=FFFFFF&fontAlignY=36&desc=Backend%20Developer&descSize=18&descAlignY=58" width="100%" />
+
+<a href="https://highlev.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white" /></a>
+<a href="mailto:minsuk6803@gmail.com"><img src="https://img.shields.io/badge/minsuk6803@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/spring-01DF01.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/springboot-58FA58.svg?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/mysql-0101DF.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-</div>
+## 🛠 Tech Stack
 
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-</div>
-
+| | |
+| :-- | :-- |
+| **Language** | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
+| **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![Netty](https://img.shields.io/badge/Netty-0E5A8A?style=flat-square) |
+| **Data** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) |
 
 <br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/intellij-2C2C32.svg?style=for-the-badge&logo=intellijidea&logoColor=F37726" />&nbsp
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
-</div>
+## 🚀 Projects
+
+| Project | Description | Stack |
+| :-- | :-- | :-- |
+| 🌏 **[What In the World](https://github.com/minseok0602/witw)** | 47개국 1,225개 언론사 기사를 이슈로 묶고, 나라별 논조를 3D 지구본 위에서 비교하는 서비스 | `Spring Boot` `Kafka` `Spark` `React` |
+| 🎤 **[싸스케 · SSAFY STAR K](https://github.com/minseok0602/ssasukae)** | 최대 4명이 함께 부르고 카드로 겨루는 실시간 화상 노래방, AI 가창 피드백까지 | `Spring Boot` `Next.js` `WebRTC` `Redis` |
+| ⚡ **[OpenKache](https://github.com/minseok0602/OpenKache)** | 고성능 분산 캐시의 가용성·확장성 알고리즘을 공통 서버 위에 구현하고 비교하는 연구 프로젝트 | `Java 21` `Netty` `Prometheus` `Grafana` |
 
 <br>
 
-<h3 align="center">📫 Contact 📫</h3>
+## 📊 GitHub Stats
+
 <div align="center">
-  <a href="https://highlev.tistory.com">
-    <img src="https://img.shields.io/badge/tistory-FAAC58?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
-  </a>
-  <a href="mailto:minsuk6803@gmail.com">
-    <img
-      src="https://img.shields.io/badge/minsuk6803@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
+
+<img src="./profile/stats.svg" height="165" />
+<img src="./profile/top-langs.svg" height="165" />
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
+  <img alt="contribution snake" src="./profile/snake.svg" />
+</picture>
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=100&section=footer" width="100%" />
